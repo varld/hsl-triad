@@ -54,4 +54,9 @@ An array of arrays containing `hsl` values.
 
 ## License
 
-MIT © [Tobias Herber](http://tobihrbr.com)
+MIT © [Tobias Herber](http://herber.space)
+
+<p align="center">
+  <br/>
+  <img width="200px" src="https://github.com/varld/branding/blob/master/varld/Made%20by.svg" />
+</p>
