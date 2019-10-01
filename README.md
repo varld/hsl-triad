@@ -1,4 +1,4 @@
-# hsl-triad [![Build Status](https://travis-ci.org/usemeta/hsl-triad.svg?branch=master)](https://travis-ci.org/usemeta/hsl-triad) [![codecov](https://codecov.io/gh/usemeta/hsl-triad/branch/master/graph/badge.svg)](https://codecov.io/gh/usemeta/hsl-triad)
+# hsl-triad [![Build Status](https://travis-ci.org/varld/hsl-triad.svg?branch=master)](https://travis-ci.org/varld/hsl-triad) [![codecov](https://codecov.io/gh/varld/hsl-triad/branch/master/graph/badge.svg)](https://codecov.io/gh/varld/hsl-triad)
 
 > Generate a color triad.
 
